@@ -1,0 +1,14 @@
+{
+  "URL": "https://sportszelethawaiipromo.hu/#kodfeltoltes",
+  "LastName": "last_name",
+  "FirstName": "first_name",
+  "Phone": "phone",
+  "Mail": "email",
+  "MailRepeat": "email_repeat",
+  "PromCode": "code",
+  "AcceptRules": "/html/body/div[1]/main/section[4]/div/form/div[5]/div[1]/div[1]/div[1]/label",
+  "AcceptRulesInput": "game_regulation_accept",
+  "AcceptPrivacyPolicy": "/html/body/div[1]/main/section[4]/div/form/div[5]/div[1]/div[2]/div[1]/label",
+  "AcceptPrivacyPolicyInput": "privacy_policy_accept",
+  "NavigationButton": "/html/body/div[1]/header/div/div/nav/ul/li[1]/a"
+}
