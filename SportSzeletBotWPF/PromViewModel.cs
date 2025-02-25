@@ -104,14 +104,21 @@ class PromViewModel : BindableBase
 
     private void SaveFormData(object parameter)
     {
-        _service.SaveFormData(new PromModel
+        try
         {
-            FirstName = FirstName,
-            LastName = LastName,
-            Mail = Mail,
-            Phone = Phone,
-            PromCode = PromCode
-        });
+            _service.SaveFormData(new PromModel
+            {
+                FirstName = FirstName,
+                LastName = LastName,
+                Mail = Mail,
+                Phone = Phone,
+                PromCode = PromCode
+            });
+        }
+        catch (Exception)
+        {
+            MessageBox.Show("Error occured while saving the form data.");
+        }
     }
 
     private void LoadFormData(object parameter)
