@@ -1,4 +1,4 @@
-# FormBotWPF
+# FormFillerWPF
 
 There is a form where promotion codes can be uploaded. My problem is that this form is not sticky, so you have to add all the data for each and every promotion codes.
 I wanted to create a solution for this.
