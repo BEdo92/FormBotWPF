@@ -9,3 +9,4 @@ I have a bit of professional experience with Selenium, that's why I decided to u
 I wanted to practice at the same time, that's why I've created a robust WPF app for it.
 
 It is not yet ready, smaller bug fixes, improvements and refactorings are still needed.
+Sorry for the Hungarian form, localization is also still in progress.
